@@ -1,4 +1,4 @@
-=== Jetpack Photon for NextGEN Gallery ===
+=== CDN-Powered NextGEN Galleries with Jetpack Photon ===
 Contributors: ethitter
 Tags: jetpack, photon, nextgen, gallery
 Requires at least: 3.4
