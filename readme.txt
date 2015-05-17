@@ -1,5 +1,6 @@
 === CDN-Powered NextGEN Galleries with Jetpack Photon ===
 Contributors: ethitter
+Donate link: https://ethitter.com/donate/
 Tags: jetpack, photon, nextgen, gallery
 Requires at least: 3.4
 Tested up to: 4.2
